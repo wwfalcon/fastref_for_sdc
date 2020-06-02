@@ -1,1 +1,0 @@
-## [集团董事会,中国电信股份有限公司官网](http://www.chinatelecom.com.cn/corp/director/)
