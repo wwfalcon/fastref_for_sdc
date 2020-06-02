@@ -1,0 +1,1 @@
+## [董事会及高级管理人员,中国移动有限公司官网](https://www.chinamobileltd.com/sc/about/directors.php#dongxin)

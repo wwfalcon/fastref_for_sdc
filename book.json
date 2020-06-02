@@ -1,0 +1,86 @@
+{
+  "language": "zh-hans",
+  "description": "SDC Fast REFs",
+  "pluginsConfig": {
+    "logo": {
+      "title": "SDC 快速参考索引",
+      "titleStyle": "color: #FFF; text-align: center; font-size: 22px",
+      "rootStyle": "background-color: #5b8de4; text-align: center; padding: 10px",
+      "url": "https://wwfalcon.github.io/ebooks_for_sdc/"
+    },
+    "devops":{
+      "livere_token":"MTAyMC80NDEwOS8yMDY0NA"
+    },
+    "sitemap-general": {
+      "prefix": "https://wwfalcon.github.io/sdc_toolkits_page/"
+    },
+    "callouts": {
+      "showTypeInHeader": false
+    },
+    "theme-default": {
+      "showLevel": true
+    },
+    "sharing": {
+      "weibo": true,
+      "whatsapp": false,
+      "linkedin": true,
+      "google": false,
+      "line": false,
+      "qq": true,
+      "pocket": false,
+      "stumbleupon": false,
+      "instapaper": false,
+      "viber": false,
+      "messenger": false,
+      "facebook": false,
+      "vk": false,
+      "twitter": true,
+      "all": [
+        "facebook",
+        "line",
+        "linkedin",
+        "pocket",
+        "qq",
+        "twitter",
+        "weibo",
+        "whatsapp"
+      ],
+      "qzone": false,
+      "hatenaBookmark": false,
+      "douban": false
+    },
+    "tbfed-pagefooter": {
+      "modify_format": "YYYY-MM-DD HH:mm:ss",
+      "modify_label": "该文件修订时间："
+    },
+    "prism": {
+      "css": [
+        "prism-themes/themes/prism-atom-dark.css"
+      ]
+    }
+  },
+  "root": "./src",
+  "plugins": [
+    "theme-comscore",
+    "-lunr",
+    "-search",
+    "search-plus",
+    "-highlight",
+    "prism",
+    "prism-themes",
+    "splitter",
+    "-sharing",
+    "sharing-plus",
+    "tbfed-pagefooter",
+    "expandable-chapters-small",
+    "sitemap-general",
+    "copy-code-button",
+    "callouts",
+    "devops",
+    "logo",
+    "offline"
+  ],
+  "author": "Gavin Wong <wwfalcon@gmail.com>",
+  "title": "SDC EBooks",
+  "gitbook": "3.2.3"
+}

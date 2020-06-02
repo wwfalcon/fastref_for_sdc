@@ -1,0 +1,1 @@
+## [集团领导,中国电信股份有限公司官网](http://www.chinatelecom.com.cn/corp/ldcycs/)
